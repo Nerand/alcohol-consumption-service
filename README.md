@@ -122,7 +122,7 @@ Consumption of alcoholic beverages 2017–2023 (Pivot table)
 ### 1. Клонирование
 
 ```bash
-git clone <ссылка_на_репозиторий>
+git clone https://github.com/Nerand/alcohol-consumption-service.git
 cd alcohol-consumption-service
 
 ### 2. Сборка проекта
